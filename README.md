@@ -1,3 +1,3 @@
 # Devops20LPA
 
-shata 30LPA thagoo guru
+shata 50LPA thagoo guru
